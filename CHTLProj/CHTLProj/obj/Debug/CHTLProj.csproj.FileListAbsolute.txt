@@ -1,0 +1,12 @@
+E:\HCMUTE\2025-2026\HKI_1\DBMS\Project\CHTLProj\CHTLProj\bin\Debug\CHTLProj.exe.config
+E:\HCMUTE\2025-2026\HKI_1\DBMS\Project\CHTLProj\CHTLProj\bin\Debug\CHTLProj.exe
+E:\HCMUTE\2025-2026\HKI_1\DBMS\Project\CHTLProj\CHTLProj\bin\Debug\CHTLProj.pdb
+E:\HCMUTE\2025-2026\HKI_1\DBMS\Project\CHTLProj\CHTLProj\obj\Debug\CHTLProj.csproj.AssemblyReference.cache
+E:\HCMUTE\2025-2026\HKI_1\DBMS\Project\CHTLProj\CHTLProj\obj\Debug\CHTLProj.loginFrm.resources
+E:\HCMUTE\2025-2026\HKI_1\DBMS\Project\CHTLProj\CHTLProj\obj\Debug\CHTLProj.Properties.Resources.resources
+E:\HCMUTE\2025-2026\HKI_1\DBMS\Project\CHTLProj\CHTLProj\obj\Debug\CHTLProj.csproj.GenerateResource.cache
+E:\HCMUTE\2025-2026\HKI_1\DBMS\Project\CHTLProj\CHTLProj\obj\Debug\CHTLProj.csproj.CoreCompileInputs.cache
+E:\HCMUTE\2025-2026\HKI_1\DBMS\Project\CHTLProj\CHTLProj\obj\Debug\CHTLProj.exe
+E:\HCMUTE\2025-2026\HKI_1\DBMS\Project\CHTLProj\CHTLProj\obj\Debug\CHTLProj.pdb
+E:\HCMUTE\2025-2026\HKI_1\DBMS\Project\CHTLProj\CHTLProj\bin\Debug\Guna.UI2.dll
+E:\HCMUTE\2025-2026\HKI_1\DBMS\Project\CHTLProj\CHTLProj\obj\Debug\CHTLProj.csproj.Up2Date
