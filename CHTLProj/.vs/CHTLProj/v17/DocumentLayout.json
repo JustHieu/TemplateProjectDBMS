@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{8DCA98A2-466C-471D-83FA-B0D782C3E971}|CHTLProj\\CHTLProj.csproj|solutionrelative:chtlproj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DCA98A2-466C-471D-83FA-B0D782C3E971}|CHTLProj\\CHTLProj.csproj|e:\\hcmute\\2025-2026\\hki_1\\dbms\\project\\chtlproj\\chtlproj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DCA98A2-466C-471D-83FA-B0D782C3E971}|CHTLProj\\CHTLProj.csproj|E:\\HCMUTE\\2025-2026\\HKI_1\\DBMS\\Project\\CHTLProj\\chtlproj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DCA98A2-466C-471D-83FA-B0D782C3E971}|CHTLProj\\CHTLProj.csproj|solutionrelative:chtlproj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,11 +18,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\HCMUTE\\2025-2026\\HKI_1\\DBMS\\Project\\CHTLProj\\CHTLProj\\Form1.cs",
+              "RelativeDocumentMoniker": "CHTLProj\\Form1.cs",
+              "ToolTip": "E:\\HCMUTE\\2025-2026\\HKI_1\\DBMS\\Project\\CHTLProj\\CHTLProj\\Form1.cs [Design]",
+              "RelativeToolTip": "CHTLProj\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T18:14:28.043Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -36,18 +48,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-12T18:45:11.288Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\HCMUTE\\2025-2026\\HKI_1\\DBMS\\Project\\CHTLProj\\CHTLProj\\Form1.cs",
-              "RelativeDocumentMoniker": "CHTLProj\\Form1.cs",
-              "ToolTip": "E:\\HCMUTE\\2025-2026\\HKI_1\\DBMS\\Project\\CHTLProj\\CHTLProj\\Form1.cs [Design]",
-              "RelativeToolTip": "CHTLProj\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T18:14:28.043Z",
-              "EditorCaption": " [Design]"
             },
             {
               "$type": "Bookmark",
